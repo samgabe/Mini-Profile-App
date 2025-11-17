@@ -1,3 +1,6 @@
+# Mini-Profile-App
+This is a mini profile app that is built with Vue js and Tailwindcss  to showcases simple concepts like the router 4 with Vue js 3 and complementary components imported.
+
 # Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
